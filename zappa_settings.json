@@ -1,0 +1,10 @@
+{
+    "new": {
+        "aws_region": "us-east-1",
+        "django_settings": "app.settings",
+        "profile_name": "default",
+        "project_name": "django-appointm",
+        "runtime": "python3.7",
+        "s3_bucket": "zappa-m3jyrod3d"
+    }
+}
